@@ -59,8 +59,6 @@ The _Window State Components_ are supplied in a zip file. Before installing you 
 
 * **`PJWdwState.pas`** – component source code.
 * **`PJWdwState.dcr`** – resource file containing component palette glyphs.
-* `PJWdwState.hlp` – component help file that integrates with the Delphi 4 to 7 OpenHelp system.
-* `PJWdwState.als` – a-link keyword file for integration with the Delphi 6 or 7 OpenHelp system.
 * `README.md` – this file.
 * `MPL-2.txt` – the Mozilla Public License.
 * `CHANGELOG.md` – component's change log.
@@ -69,10 +67,6 @@ The _Window State Components_ are supplied in a zip file. Before installing you 
 In addition to the above files you will find the the source code of four [demo projects](#demo-projects), along with read-me files in the `Demos` directory and its `1`, `2`, `3` and `4` sub-directories.
 
 You can now install the components into the Delphi IDE. If you need help doing this [see here](https://delphidabbler.com/url/install-comp).
-
-Note that the help file included in the download can only integrate with the IDE in Delphi 4-7 and _**will not work at all on Windows 10 & 11**_. For information on how to do this, see [this article](https://delphidabbler.com/articles/article-15). Users of other versions of Delphi can either use the help file as a stand-alone file (in which case some links won't work) or you can use the Window State Components [online documentation](https://delphidabbler.com//url/wdwstate-docs) that can be accessed via the provided Internet short-cut.
-
-> **NOTE:** The help file is deprecated and is no longer being updated. The last update was in the v5.4.1 release. Changes and new features added since then have not been included in the help file. For up to date documentation please refer to the [online documentation](https://delphidabbler.com//url/wdwstate-docs).
 
 ## Demo Projects
 
